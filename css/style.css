@@ -20,7 +20,12 @@ p {
   text-decoration: underline;
 }
 h1 {
-  font-family: 'Quicksand' sans-serif;
+  font-family: 'Quicksand', sans-serif;
   color: #BF5E70;
   font-size: 20px;
+}
+li {
+  font-family: 'Quicksand', sans-serif;
+  display: inline;
+  margin-right: 10px;
 }
