@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'avenir';
+  font-family: 'Quicksand', sans-serif;
 }
 
 body {
@@ -14,11 +14,13 @@ body {
 
 }
 p {
-  font-family: 'avenir', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   line-height: 1em;
   text-align: center;
   text-decoration: underline;
 }
 h1 {
-  font-family: 'avenir';
+  font-family: 'Quicksand' sans-serif;
+  color: #BF5E70;
+  font-size: 20px;
 }
