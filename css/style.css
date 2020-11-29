@@ -14,10 +14,10 @@ body {
 
 }
 p {
+  color: #547CBC;
   font-family: 'Quicksand', sans-serif;
   line-height: 1em;
-  text-align: center;
-  text-decoration: underline;
+  text-align: left;
 }
 h1 {
   color: #BF5E70;
@@ -28,4 +28,25 @@ li {
   display: inline;
   font-family: 'Quicksand', sans-serif;
   margin-right: 10px;
+}
+.navigation {
+  color: #547CBC;
+  font-family: 'Quicksand', sans-serif;
+  left: 10px;
+  margin: 10px;
+  position: fixed;
+  top: 10px;
+}
+
+.icons {
+  float: right;
+}
+
+.lorem {
+  text-transform: capitalize;
+}
+
+footer {
+  float: left;
+ margin: 20px;
 }
