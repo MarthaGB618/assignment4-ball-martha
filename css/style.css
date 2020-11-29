@@ -50,3 +50,24 @@ footer {
   float: left;
  margin: 20px;
 }
+
+.yarn {
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+ @keyframes slidein {
+from {
+  margin-left: 100%;
+  width: 200%;
+}
+ to {
+   margin-left: 0%;
+   width: 100%;
+   }
+ }
+
+ h1:hover {
+   background-color: #6888A6;
+   width: 600px;
+   transition: 3s;
+ }
